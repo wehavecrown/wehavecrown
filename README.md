@@ -1,8 +1,5 @@
-## Hi there 👋🏾
+<!-- ## Hi there 👋🏾 -->
 
-Security Researcher, passionate about safeguarding digital assets, currently focused on:
-- Web & API Security
-- Smart Contract Security (EVM)
 <!--
 **wehavecrown/wehavecrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
