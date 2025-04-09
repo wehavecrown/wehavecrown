@@ -1,16 +1,21 @@
-## Hi there 👋
-
 <!--
-**wehavecrown/wehavecrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! I'm Adelani AA
+🎯 **DevOps Engineer** passionate about automation, cloud-native technologies, and CI/CD pipelines.  
 
-Here are some ideas to get you started:
+## Skills  
+- **DevOps Tools**: Git, Jenkins, Docker, Kubernetes, Terraform, Ansible  
+- **Cloud Platforms**: AWS (EC2, S3, IAM, CloudWatch, EKS)  
+- **Languages**: Python, Bash, Groovy, YAML, HCL, DSL 
+- **Monitoring & Logging**: Prometheus, Grafana and CloudWatch  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Featured Projects  
+1. **[E-commerce CI/CD Pipeline](https://github.com/DivineTheAnalyst/CICD-Pipeline.git)**  
+   Automates the build, test, and deployment of an e-commerce app on Kubernetes.  
+   Tools: Jenkins, SonarQube, Docker, Kubernetes, AWS.  
+
+2. **[Infrastructure Automation with Terraform](https://github.com/DivineTheAnalyst/terraform_files.git)**  
+   Provision AWS infrastructure using Terraform with reusable modules.  
+
+3. **[Ansible Playbooks](https://github.com/DivineTheAnalyst/ansible-files.git)**  
+   Ansible automation scripts for server configuration and application deployment.  
 -->
