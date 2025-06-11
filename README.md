@@ -1,3 +1,4 @@
+I write about everything Cloud, DevOps and Security on [Medium](https://medium.com/@wehavecrown)
 <!--
 # Hi there! I'm Adelani AA
 🎯 **DevOps Engineer** passionate about automation, cloud-native technologies, and CI/CD pipelines.  
