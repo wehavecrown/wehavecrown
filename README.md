@@ -25,14 +25,7 @@ Passionate about building **scalable, reliable, and secure** infrastructure. I b
 
 ---
 
-## 🚀 Skills & Learning Journey
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Scripting & AI** | Python, Bash, YAML, JSON, Amazon Q, GitHub Copilot |
-| **System Admin** | Linux, Server Management, Networking |
-| **Build & Quality** | Maven, Nexus, SonarQube, Slack Integration |
-| **AWS Specialist** | Systems Manager, ELB, Auto Scaling, Beanstalk, CodeCommit |
+📫 **Contact:** [wehavecrown@gmail.com](mailto:wehavecrown@gmail.com)
 
 ---
 <!--
