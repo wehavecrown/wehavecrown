@@ -2,6 +2,9 @@
 
 Passionate about building **scalable, reliable, and secure** infrastructure. I bridge the gap between development and operations through automation, modern cloud architecture, and security.
 
+### 📜 Certifications
+* **AWS Certified Solutions Architect** – [View Certificate](#)
+
 ---
 
 ## 🛠 Tech Stack & Expertise
@@ -34,4 +37,3 @@ Passionate about building **scalable, reliable, and secure** infrastructure. I b
 * **AWS Infrastructure:** Provisioned multi-tier VPC architectures using Terraform with automated scaling and monitoring.
 * **Container Orchestration:** Deployed production-ready Kubernetes clusters with integrated monitoring via Prometheus and Grafana.
 -->
----
