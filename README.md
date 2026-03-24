@@ -1,13 +1,13 @@
 # Cloud, DevOps & Security Engineer
 
-Passionate about building **scalable, reliable, and secure** infrastructure. I specialize in bridging the gap between development and operations through automation, modern cloud architecture, and a "security-first" mindset.
+Passionate about building **scalable, reliable, and secure** infrastructure. I bridge the gap between development and operations through automation, modern cloud architecture, and security.
 
 ---
 
-## 🛠 Tech Stack & Core Competencies
+## 🛠 Tech Stack & Expertise
 
 ### ☁️ Cloud Engineering
-* **Platforms:** AWS (Expertise), Azure, GCP
+* **Platforms:** AWS, Azure, GCP
 * **Architecture:** Infrastructure Design, Scalability & High Availability
 * **Services:** Compute (EC2, Lambda), Storage (S3, EBS), Networking (VPC, Route 53), Databases (RDS)
 
@@ -29,8 +29,8 @@ Passionate about building **scalable, reliable, and secure** infrastructure. I s
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Scripting & AI** | Python (Automation), Bash, YAML, JSON, Amazon Q, GitHub Copilot |
-| **System Admin** | Linux (Gemini CLI), Server Management, Networking Fundamentals |
+| **Scripting & AI** | Python, Bash, YAML, JSON, Amazon Q, GitHub Copilot |
+| **System Admin** | Linux, Server Management, Networking |
 | **Build & Quality** | Maven, Nexus, SonarQube, Slack Integration |
 | **AWS Specialist** | Systems Manager, ELB, Auto Scaling, Beanstalk, CodeCommit |
 
@@ -42,6 +42,3 @@ Passionate about building **scalable, reliable, and secure** infrastructure. I s
 * **Container Orchestration:** Deployed production-ready Kubernetes clusters with integrated monitoring via Prometheus and Grafana.
 -->
 ---
-
-📫 **Let's Connect!**
-[Insert your LinkedIn, Website, or Email here]
