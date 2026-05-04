@@ -1,10 +1,10 @@
 # I'm [Ade]
 
-**DevOps Engineer** | Automation | Cloud (AWS, GCP) | CI/CD | K8s
-
 ---
+Building and automating resilient, scalable, secure Web Services and APIs.
 
-I build and automate infrastructure using modern DevOps practices. My journey covers:
+Programming Language:
+
 
 - **Linux & Scripting**: Bash, Python, AWS CLI
 - **Cloud**: AWS (EC2, S3, RDS, Lambda, Auto Scaling, VPC) & GCP (VPC, GCE, Cloud SQL, HTTPS LB)
@@ -23,12 +23,6 @@ I build and automate infrastructure using modern DevOps practices. My journey co
 - [**CI/CD on AWS** – Beanstalk, RDS, CodePipeline](https://example.com/)
 - **Multi-tier App on GCP** – Managed instance groups, secure HTTPS LB, Cloud DNS [View Here](#)
 - **End-to-end monitoring stack** – Prometheus + Grafana + Loki + Slack integration [View Here](#)
-
----
-
-### 🤖 AI-Assisted DevOps
-
-Using **GitHub Copilot** & **Amazon Q** to accelerate scripting, Terraform, and Python automation.
 
 ---
 
