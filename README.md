@@ -14,14 +14,4 @@ Software Engineer, building and automating resilient, scalable, secure Web Servi
 - **Monitoring** : Prometheus, Grafana, Loki, Alloy, PromQL, Slack alerts.
 - **GitOps & Tooling** : Git, GitHub Copilot, Vagrant, Nexus, SonarQube.
 
---- 
-
-### Featured Projects
-
-- [**VProfile** – Deployed on VMs, Kubernetes, and via GitOps](https://example.com/)
-- [**Lift & Shift + Re-architect Web App on AWS** (PaaS & SaaS)](https://example.com/)
-- [**CI/CD on AWS** – Beanstalk, RDS, CodePipeline](https://example.com/)
-- [Multi-tier App on GCP** – Managed instance groups, secure HTTPS LB, Cloud DNS](https://example.com/)
-- [End-to-end monitoring stack** – Prometheus + Grafana + Loki + Slack integration](https://example.com/)
-
 ---
