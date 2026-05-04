@@ -1,6 +1,8 @@
 # Adelani Adeniji-Adele
 
-Building and automating resilient, scalable, secure Web Services / APIs.
+Software Engineer, building and automating resilient, scalable, secure Web Services / APIs.
+
+[I  write on Medium](https://medium.com/@wehavecrown)
 
 - **Language**: Java, Spring Boot, Microservices Architecture, Spring Data JPA, REST APIs, Spring Security, JWT Authentication/Authorization, System Design, Banking and Payments, Data Structures and Algorithm.
   
