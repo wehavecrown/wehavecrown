@@ -14,7 +14,7 @@ Building and automating resilient, scalable, secure Web Services / APIs.
 
 --- 
 
-### 📌 Featured Projects
+### Featured Projects
 
 - [**VProfile** – Deployed on VMs, Kubernetes, and via GitOps](https://example.com/)
 - [**Lift & Shift + Re-architect Web App on AWS** (PaaS & SaaS)](https://example.com/)
