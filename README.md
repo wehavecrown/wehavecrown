@@ -23,5 +23,3 @@ Building and automating resilient, scalable, secure Web Services / APIs.
 - [End-to-end monitoring stack** – Prometheus + Grafana + Loki + Slack integration](https://example.com/)
 
 ---
-
-📫 Reach me: [LinkedIn](link) | [Email](mailto:you@example.com)
