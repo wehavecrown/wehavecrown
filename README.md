@@ -1,11 +1,11 @@
-# I'm [Ade]
+# Hello, I am Ade
 
 ---
 Building and automating resilient, scalable, secure Web Services and APIs.
 
 Programming Language:
 
-
+- **Language**: Java, Spring Boot, Microservices Architecture, Spring Data JPA, REST APIs, Spring Security, JWT Authentication/Authorization, System Design, Banking and Payments, Data Structures and Algorithm.
 - **Linux & Scripting**: Bash, Python, AWS CLI
 - **Cloud**: AWS (EC2, S3, RDS, Lambda, Auto Scaling, VPC) & GCP (VPC, GCE, Cloud SQL, HTTPS LB)
 - **CI/CD**: Jenkins, GitHub Actions, GitLab CI, Maven
