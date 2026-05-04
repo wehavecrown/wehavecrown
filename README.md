@@ -1,4 +1,4 @@
-# Adelani Adeniji-Adele . Software Engineer (Java)
+# Adelani Adeniji-Adele
 
 Building and automating resilient, scalable, secure Web Services and APIs.
 
