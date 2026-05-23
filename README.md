@@ -1,17 +1,19 @@
 # Adelani Adeniji-Adele
 
-Software Engineer, building and automating resilient, scalable, secure Web Services / APIs.
+Cloud and DevSecOps Engineer, building secure, resilient, and observable cloud infrastructure. Cloud-native engineering with deep backend literacy (APIs, serialization, scaling), bridging the gap between development and operations. Integrating security into CI/CD, managing Kubernetes, and architecting systems to prevent production failures.
 
-[I  write on Medium](https://medium.com/@wehavecrown)
+---
 
-- **Language**: Java, Spring Boot, Microservices Architecture, Spring Data JPA, REST APIs, Spring Security, JWT Authentication/Authorization, System Design, Banking and Payments, Data Structures and Algorithm.
-  
-- **Linux & Scripting** : Bash, Python, AWS CLI.
-- **Cloud** : AWS & GCP.
-- **CI/CD** : Jenkins, GitHub Actions, GitLab CI, Maven.
-- **IaC** : Terraform & Ansible.
-- **Containers & Orchestration** : Docker, Kubernetes, Helm, Lens.
-- **Monitoring** : Prometheus, Grafana, Loki, Alloy, PromQL, Slack alerts.
-- **GitOps & Tooling** : Git, GitHub Copilot, Vagrant, Nexus, SonarQube.
+* **Cloud & Infrastructure**: AWS/Azure/GCP, Terraform (Infrastructure as Code), Linux/Bash Scripting, SSH, Cloud Networking, Infrastructure Automation.
+
+* **Containerization & Orchestration**: Docker, Kubernetes, Container Networking, Deployment Strategies, Cluster Management.
+
+* **CI/CD & Automation**: GitHub Actions, GitLab CI/CD, Python Automation, FastAPI, Build & Release Pipelines, Workflow Automation.
+
+* **DevSecOps & Security**: IAM (Identity & Access Management), Secrets Management, Least Privilege Access Control, API Security, Secure Infrastructure Practices.
+
+* **Observability & Reliability**: OpenTelemetry, Centralized Logging, Monitoring & Alerting, Diagnostics, Distributed Tracing, System Reliability.
+
+* **Backend Systems Literacy**: REST API Design, PostgreSQL, Database Optimization, Caching Strategies, Task Queues, Scalable Backend Architecture.
 
 ---
