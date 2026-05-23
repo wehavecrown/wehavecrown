@@ -1,6 +1,6 @@
 # Adelani Adeniji-Adele
 
-Cloud and DevSecOps Engineer, building secure, resilient, and observable cloud infrastructure. Cloud-native engineering with deep backend literacy (APIs, serialization, scaling), bridging the gap between development and operations. Integrating security into CI/CD, managing Kubernetes, and architecting systems to prevent production failures.
+DevOps and DevSecOps Engineer, building secure, resilient, and observable cloud infrastructure. Cloud-native engineering with deep backend literacy (APIs, serialization, scaling), bridging the gap between development and operations. Integrating security into CI/CD, managing Kubernetes, and architecting systems to prevent production failures.
 
 ---
 
