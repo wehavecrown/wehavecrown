@@ -1,7 +1,7 @@
 ### Adelani Adeniji-Adele
 Software Engineer specializing in Java & Distributed Systems. Building secure, resilient, high-performance web services and microservices architectures.
 
-### Tech Stack
+### Core Stack
 
 - **Languages & Core:** Core Java, Data Structures & Algorithms (DSA), Concurrency & Parallelism
 - **Frameworks & Enterprise:** Spring Boot, Spring Framework, Spring Security, Hibernate, JDBC, Servlets, JSP
