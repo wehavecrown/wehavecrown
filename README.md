@@ -1,5 +1,7 @@
 ### Adelani Adeniji-Adele
-Software Engineer specializing in Java & Distributed Systems. Building secure, resilient, high-performance web services and microservices architectures. I write on [Medium](https://medium.com/@wehavecrown).
+Software Engineer specializing in Java & Distributed Systems. Building secure, resilient, high-performance web services and microservices architectures. 
+
+I write on everything Backend, DevOps and DevSecOps [Medium](https://medium.com/@wehavecrown).
 
 ### Core Stack
 
