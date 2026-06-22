@@ -1,17 +1,17 @@
 ### Adelani Adeniji-Adele
-Software Engineer specializing in Java & Distributed Systems. Building secure, resilient, high-performance web services and microservices architectures. 
+Software Engineer specializing in Java & Distributed Systems. Building secure, resilient, high-performance web services and microservices architectures.
 
 I write on everything Backend, DevOps and DevSecOps [Medium](https://medium.com/@wehavecrown).
 
 ### Core Stack
 
-- **Languages & Core:** Core Java, Data Structures & Algorithms (DSA), Concurrency & Parallelism
-- **Frameworks & Enterprise:** Spring Boot, Spring Framework, Spring Security, Hibernate, JDBC, Servlets, JSP
-- **Architecture & Distributed Systems:** Microservices, Event-Driven Design, Apache Kafka, REST APIs
-- **Databases & Caching:** PostgreSQL, MongoDB, Elasticsearch, Caching Strategies
-- **Security & Networking:** JWT, OAuth2, Auth0, HTTP Routing, Authentication/Authorization
-- **DevOps, Cloud & Infrastructure:** Docker, Kubernetes, Terraform, Ansible, Jenkins, Linux, Cloud Deployment
-- **Testing, Tools & AI:** JUnit, Git, Maven, Gradle, Spring AI, Logging & Observability
+- **Languages & Core:** Core Java, Data Structures & Algorithms (DSA), JDBC, Servlets, JSP
+- **Frameworks & Enterprise:** Spring Framework, Spring Boot, Spring Security, Spring AI, Hibernate, REST APIs
+- **Architecture & Distributed Systems:** Microservices, Event-Driven Design, Apache Kafka
+- **Databases & Caching:** SQL, NoSQL, Redis
+- **Security & Networking:** JWT, OAuth2, Authentication/Authorization
+- **DevOps, Cloud & Infrastructure:** Docker, Cloud Deployment, Linux, Ansible, Jenkins, Terraform
+- **Testing, Tools & AI:** JUnit, Git, Maven, Gradle, Logging & Observability
 
 
 
