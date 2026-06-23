@@ -3,7 +3,7 @@ Software Engineer specializing in Java & Distributed Systems. Building secure, r
 
 I write on everything Backend, DevOps and DevSecOps [Medium](https://medium.com/@wehavecrown).
 
-### Core Stack
+<!-- ### Core Stack
 
 - **Languages & Core:** Core Java, Data Structures & Algorithms (DSA), JDBC, Servlets, JSP
 - **Frameworks & Enterprise:** Spring Framework, Spring Boot, Spring Security, Spring AI, Hibernate, REST APIs
@@ -12,7 +12,7 @@ I write on everything Backend, DevOps and DevSecOps [Medium](https://medium.com/
 - **Security & Networking:** JWT, OAuth2, Authentication/Authorization
 - **DevOps, Cloud & Infrastructure:** Docker, Cloud Deployment, Linux, Ansible, Jenkins, Terraform
 - **Testing, Tools & AI:** JUnit, Git, Maven, Gradle, Logging & Observability
-
+ -->
 
 
 
