@@ -1,5 +1,5 @@
 ### Adelani Adeniji-Adele
-Software Engineer building secure, resilient, high-performance web services, APIs and microservices architectures.
+Software Engineer building secure, resilient, high-performance Web Services and APIs.
 
 I write on [Medium](https://medium.com/@wehavecrown).
 
