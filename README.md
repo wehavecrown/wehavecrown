@@ -3,7 +3,7 @@
 Building fault-tolerant backend services and automating production cloud infrastructure.
 I write on [Medium](https://medium.com/@wehavecrown).
 
-### 🛠 Tech Stack
+### Tech Stack
 
 #### **Languages & Frameworks**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,7 +28,7 @@ I write on [Medium](https://medium.com/@wehavecrown).
 
 ---
 
-### ⚙️ Systems & Architecture Focus
+### Systems & Architecture
 - **Backend Patterns:** REST & GraphQL API Design, Middleware Architecture, Repository Pattern, Rate Limiting & Auth (OAuth2/JWT).
 - **Resilience & Scale:** Distributed Caching, Background Job Processing, Graceful Shutdowns, Concurrency Tuning.
 - **DevOps Culture:** Immutable Infrastructure via IaC, Container Orchestration, Automated CI/CD, Centralized Logging & Metrics.
