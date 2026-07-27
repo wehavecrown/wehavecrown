@@ -1,27 +1,34 @@
-### Adelani Adeniji-Adele
-Software Engineer building secure, resilient, high-performance web services and microservices architectures.
+# Hi there, I'm a Software Engineer (Backend & DevOps) 👋
 
+Building fault-tolerant backend services and automating production cloud infrastructure.
 I write on [Medium](https://medium.com/@wehavecrown).
 
-<!-- ### Core Stack
+### 🛠 Tech Stack
 
-- **Languages & Core:** Core Java, Data Structures & Algorithms (DSA), JDBC, Servlets, JSP
-- **Frameworks & Enterprise:** Spring Framework, Spring Boot, Spring Security, Spring AI, Hibernate, REST APIs
-- **Architecture & Distributed Systems:** Microservices, Event-Driven Design, Apache Kafka
-- **Databases & Caching:** SQL, NoSQL, Redis
-- **Security & Networking:** JWT, OAuth2, Authentication/Authorization
-- **DevOps, Cloud & Infrastructure:** Docker, Cloud Deployment, Linux, Ansible, Jenkins, Terraform
-- **Testing, Tools & AI:** JUnit, Git, Maven, Gradle, Logging & Observability
- -->
+#### **Languages & Frameworks**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
+#### **Databases, Caching & Search**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
+#### **Cloud, DevOps & Observability**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
+---
 
-
-<!--  CORE FOCUS : 
-*re-iterate*
-
-BACKEND ENGINEERING : java (springboot) . golang (secure coding) . python (fast api)
-DEVOPS ENGINEERING : aws/azure/gcp . devops .
-SECURITY (DEVSECOPS) : devsecops . container security . kubernetes security and observability . cloud security
-   . -->
+### ⚙️ Systems & Architecture Focus
+- **Backend Patterns:** REST & GraphQL API Design, Middleware Architecture, Repository Pattern, Rate Limiting & Auth (OAuth2/JWT).
+- **Resilience & Scale:** Distributed Caching, Background Job Processing, Graceful Shutdowns, Concurrency Tuning.
+- **DevOps Culture:** Immutable Infrastructure via IaC, Container Orchestration, Automated CI/CD, Centralized Logging & Metrics.
