@@ -1,4 +1,4 @@
-# Hi there, I'm a Software Engineer (Backend & DevOps) 👋
+## Adelani Adeniji-Adele
 
 Building fault-tolerant backend services and automating production cloud infrastructure.
 I write on [Medium](https://medium.com/@wehavecrown).
