@@ -6,7 +6,7 @@ Software Engineer building resilient, high-throughput web applications, producti
 *  **Architecture:** Fault-tolerant API design, caching strategies, task queues, and asynchronous processing.
 *  **Engineering:** Production readiness, logging, monitoring, backend security, and graceful error handling.
 
-###  Technical Capabilities
+###  Technical
 
 
  * **Languages :**  TypeScript, Modern JavaScript
