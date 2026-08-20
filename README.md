@@ -4,6 +4,6 @@ Software Engineer specializing in scalable distributed systems, cloud infrastruc
 
 * **Languages:** TypeScript, JavaScript, Python
 * **Backend:** Node.js, Express/FastAPI, REST & GraphQL APIs, Mongoose
-* **Databases & Caching:** PostgreSQL, MongoDB, Elasticsearch
+* **Databases & Caching:** PostgreSQL, MongoDB, Elasticsearch, Redis
 * **Infrastructure & DevOps:** AWS, Docker, Kubernetes, Terraform, Linux, CI/CD
 * **Reliability:** OpenTelemetry, Jest, Error Handling, Performance Optimization
